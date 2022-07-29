@@ -1,0 +1,28 @@
+/*Fondo para el body*/
+.po{
+    background-color: rgb(58, 21, 21);
+}
+/*Fondo color de letra y texto centrado*/
+.haz{
+    background-color: rgb(126, 43, 43);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+/*Fondo y color de letra*/
+.cal{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+/*Fondo color de letra y texto centrado*/
+
+.tipos{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+/*Ajuste de la imagen*/
+
+.imagenn{
+    align-content: center;
+    width: 320px;
+}
